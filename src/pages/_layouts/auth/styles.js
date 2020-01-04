@@ -43,6 +43,12 @@ export const Content = styled.div`
         background: ${darken(0.03, '#3b9eff')};
       }
     }
+    span {
+      color: #fb6f91;
+      align-self: flex-start;
+      margin: 0 0 10px;
+      font-weight: bold;
+    }
     a {
       color: #fff;
       margin-top: 15px;
